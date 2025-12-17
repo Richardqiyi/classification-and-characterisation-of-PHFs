@@ -82,7 +82,7 @@ then you can see the results in a new notebook `V3_executed.ipynb`.
 python run.py
 ```
 
-## Test & Visulization
+## Test & Visualization
 
 If you want to see the internal validation result, you can also use the notebooks in this repo:
 
