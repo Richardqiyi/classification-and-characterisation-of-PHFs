@@ -1,4 +1,12 @@
 # 3D DenseNet for classification and characterisation of proximal humerus fractures on CT-scans
+## Final Model (Main Contribution of This Repository)
+
+This repository provides a **final, fully trained 3D DenseNet-121 model** for the **classification and characterisation of proximal humerus fractures (PHFs) on CT scans**.
+
+- The model has already been **trained and internally validated**
+- It performs **multi-task classification** of clinically relevant fracture characteristics
+- A **pretrained checkpoint is provided** and can be directly used
+
 ## Tasks
 Proximal humerus CT-scans will be classified on the following characteristics: 
 
